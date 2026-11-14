@@ -77,7 +77,7 @@ license above.
 
 ## Credits
 
-The ArtCraft name and logo belong to the ArtCraft project and its authors.
+The ArtCraft name and logo belong to the [ArtCraft](https://github.com/storytold) project and its authors.
 They are used here only to propose icons for the project's file formats.
 This repository is not an official ArtCraft release unless the maintainers
 state otherwise.
