@@ -11,9 +11,31 @@ Created as a contribution proposal for the project.
 
 - **Shape:** a document sheet with a folded top-right corner, identical across all icons.
 - **Emblem:** the ArtCraft logo in the center. Only the color and a small badge change between file types; each type uses the color of its related ArtCraft application.
-- **Grid:** 1024×1024 canvas, sheet size 704×928 (3:4 ratio), built on multiples of 32 px so it scales cleanly.
 - **Text:** the format name is converted to outlines, so it renders the same on every system.
 - **Colors:** taken from the existing ArtCraft application icons to keep the visual identity consistent. The values are written directly in each SVG, so the palette is easy to change if the maintainers prefer different colors.
+
+## Dimensions
+
+All values are in pixels on a 1024×1024 canvas. The origin (0, 0) is the top-left corner, and the Y axis points down.
+
+| Element | Value |
+|---------|-------|
+| Canvas | 1024 × 1024 |
+| Sheet size | 704 × 928 (≈ 3:4) |
+| Sheet position | x: 160 → 864, y: 48 → 976 |
+| Folded corner | 192 × 192 (≈ 27% of the sheet width), top-right |
+| Corner radius | 32 – 48 |
+| Border width | 24 – 32 |
+| Emblem area | 384 × 384, centered horizontally, y: 400 → 784 |
+| Label baseline | 120 above the bottom edge of the sheet (y = 856) |
+| Label max width | 480 |
+
+### Folded corner geometry
+
+The top-right corner of the sheet is cut diagonally at 45°. The fold triangle fills the cut area.
+
+- Cut points: `(672, 48)` on the top edge and `(864, 240)` on the right edge.
+- Fold triangle: `(672, 48)`, `(672, 240)`, `(864, 240)`.
 
 ## Icons
 

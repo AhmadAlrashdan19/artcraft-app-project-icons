@@ -5282,22 +5282,6 @@
                         0.0,
                         0.0,
                         1.0,
-<<<<<<< HEAD
-<<<<<<< HEAD
-=======
->>>>>>> b1e640e4e50b197157e529709e797ca5a870dac5
-                        380.263,
-                        822.422
-                      ],
-                      "runs": [
-                        {
-                          "text": "PCraft",
-                          "style": {
-                            "font_family": "Source Sans 3",
-                            "font_style": "Regular",
-                            "size": 103.0,
-<<<<<<< HEAD
-=======
                         432.41,
                         855.91
                       ],
@@ -5308,9 +5292,6 @@
                             "font_family": "Source Sans 3",
                             "font_style": "Regular",
                             "size": 140.0,
->>>>>>> 5fc4d5c (Shorten icon labels to 2-3 letters and reposition)
-=======
->>>>>>> b1e640e4e50b197157e529709e797ca5a870dac5
                             "tracking": 0.0,
                             "baseline_shift": 0.0,
                             "h_scale": 100.0,
@@ -5361,22 +5342,6 @@
                         0.0,
                         0.0,
                         1.0,
-<<<<<<< HEAD
-<<<<<<< HEAD
-=======
->>>>>>> b1e640e4e50b197157e529709e797ca5a870dac5
-                        263.8215,
-                        1896.422
-                      ],
-                      "runs": [
-                        {
-                          "text": "DesignCraft",
-                          "style": {
-                            "font_family": "Source Sans 3",
-                            "font_style": "Regular",
-                            "size": 103.0,
-<<<<<<< HEAD
-=======
                         428.9800000000001,
                         1930.01
                       ],
@@ -5387,9 +5352,6 @@
                             "font_family": "Source Sans 3",
                             "font_style": "Regular",
                             "size": 140.0,
->>>>>>> 5fc4d5c (Shorten icon labels to 2-3 letters and reposition)
-=======
->>>>>>> b1e640e4e50b197157e529709e797ca5a870dac5
                             "tracking": 0.0,
                             "baseline_shift": 0.0,
                             "h_scale": 100.0,
@@ -5440,18 +5402,8 @@
                         0.0,
                         0.0,
                         1.0,
-<<<<<<< HEAD
-<<<<<<< HEAD
-                        429.34250000000003,
-                        2970.422
-=======
                         400.6499999999999,
                         3004.0
->>>>>>> 5fc4d5c (Shorten icon labels to 2-3 letters and reposition)
-=======
-                        429.34250000000003,
-                        2970.422
->>>>>>> b1e640e4e50b197157e529709e797ca5a870dac5
                       ],
                       "runs": [
                         {
@@ -5459,15 +5411,7 @@
                           "style": {
                             "font_family": "Source Sans 3",
                             "font_style": "Regular",
-<<<<<<< HEAD
-<<<<<<< HEAD
-                            "size": 103.0,
-=======
                             "size": 140.0,
->>>>>>> 5fc4d5c (Shorten icon labels to 2-3 letters and reposition)
-=======
-                            "size": 103.0,
->>>>>>> b1e640e4e50b197157e529709e797ca5a870dac5
                             "tracking": 0.0,
                             "baseline_shift": 0.0,
                             "h_scale": 100.0,
@@ -5518,22 +5462,6 @@
                         0.0,
                         0.0,
                         1.0,
-<<<<<<< HEAD
-<<<<<<< HEAD
-=======
->>>>>>> b1e640e4e50b197157e529709e797ca5a870dac5
-                        371.97149999999993,
-                        4044.422
-                      ],
-                      "runs": [
-                        {
-                          "text": "MCraft",
-                          "style": {
-                            "font_family": "Source Sans 3",
-                            "font_style": "Regular",
-                            "size": 103.0,
-<<<<<<< HEAD
-=======
                         421.13999999999993,
                         4078.0000000000005
                       ],
@@ -5544,9 +5472,6 @@
                             "font_family": "Source Sans 3",
                             "font_style": "Regular",
                             "size": 140.0,
->>>>>>> 5fc4d5c (Shorten icon labels to 2-3 letters and reposition)
-=======
->>>>>>> b1e640e4e50b197157e529709e797ca5a870dac5
                             "tracking": 0.0,
                             "baseline_shift": 0.0,
                             "h_scale": 100.0,
@@ -5597,22 +5522,6 @@
                         0.0,
                         0.0,
                         1.0,
-<<<<<<< HEAD
-<<<<<<< HEAD
-=======
->>>>>>> b1e640e4e50b197157e529709e797ca5a870dac5
-                        1414.5565,
-                        4044.422
-                      ],
-                      "runs": [
-                        {
-                          "text": "AniCraft",
-                          "style": {
-                            "font_family": "Source Sans 3",
-                            "font_style": "Regular",
-                            "size": 103.0,
-<<<<<<< HEAD
-=======
                         1510.68,
                         4078.0000000000005
                       ],
@@ -5623,9 +5532,6 @@
                             "font_family": "Source Sans 3",
                             "font_style": "Regular",
                             "size": 140.0,
->>>>>>> 5fc4d5c (Shorten icon labels to 2-3 letters and reposition)
-=======
->>>>>>> b1e640e4e50b197157e529709e797ca5a870dac5
                             "tracking": 0.0,
                             "baseline_shift": 0.0,
                             "h_scale": 100.0,
@@ -5676,18 +5582,8 @@
                         0.0,
                         0.0,
                         1.0,
-<<<<<<< HEAD
-<<<<<<< HEAD
-                        1503.732554770704,
-                        2970.422
-=======
                         1444.799890458592,
                         3004.0
->>>>>>> 5fc4d5c (Shorten icon labels to 2-3 letters and reposition)
-=======
-                        1503.732554770704,
-                        2970.422
->>>>>>> b1e640e4e50b197157e529709e797ca5a870dac5
                       ],
                       "runs": [
                         {
@@ -5695,15 +5591,7 @@
                           "style": {
                             "font_family": "Source Sans 3",
                             "font_style": "Regular",
-<<<<<<< HEAD
-<<<<<<< HEAD
-                            "size": 103.0,
-=======
                             "size": 140.0,
->>>>>>> 5fc4d5c (Shorten icon labels to 2-3 letters and reposition)
-=======
-                            "size": 103.0,
->>>>>>> b1e640e4e50b197157e529709e797ca5a870dac5
                             "tracking": 0.0,
                             "baseline_shift": 0.0,
                             "h_scale": 100.0,
@@ -5754,22 +5642,6 @@
                         0.0,
                         0.0,
                         1.0,
-<<<<<<< HEAD
-<<<<<<< HEAD
-=======
->>>>>>> b1e640e4e50b197157e529709e797ca5a870dac5
-                        2451.219,
-                        2970.422
-                      ],
-                      "runs": [
-                        {
-                          "text": "DeckCraft",
-                          "style": {
-                            "font_family": "Source Sans 3",
-                            "font_style": "Regular",
-                            "size": 103.0,
-<<<<<<< HEAD
-=======
                         2564.6580282327045,
                         3004.0
                       ],
@@ -5780,9 +5652,6 @@
                             "font_family": "Source Sans 3",
                             "font_style": "Regular",
                             "size": 140.0,
->>>>>>> 5fc4d5c (Shorten icon labels to 2-3 letters and reposition)
-=======
->>>>>>> b1e640e4e50b197157e529709e797ca5a870dac5
                             "tracking": 0.0,
                             "baseline_shift": 0.0,
                             "h_scale": 100.0,
@@ -5833,22 +5702,6 @@
                         0.0,
                         0.0,
                         1.0,
-<<<<<<< HEAD
-<<<<<<< HEAD
-=======
->>>>>>> b1e640e4e50b197157e529709e797ca5a870dac5
-                        3605.0440000000003,
-                        2970.422
-                      ],
-                      "runs": [
-                        {
-                          "text": "TCraft",
-                          "style": {
-                            "font_family": "Source Sans 3",
-                            "font_style": "Regular",
-                            "size": 103.0,
-<<<<<<< HEAD
-=======
                         3660.15,
                         3004.0
                       ],
@@ -5859,9 +5712,6 @@
                             "font_family": "Source Sans 3",
                             "font_style": "Regular",
                             "size": 140.0,
->>>>>>> 5fc4d5c (Shorten icon labels to 2-3 letters and reposition)
-=======
->>>>>>> b1e640e4e50b197157e529709e797ca5a870dac5
                             "tracking": 0.0,
                             "baseline_shift": 0.0,
                             "h_scale": 100.0,
@@ -5912,22 +5762,6 @@
                         0.0,
                         0.0,
                         1.0,
-<<<<<<< HEAD
-<<<<<<< HEAD
-=======
->>>>>>> b1e640e4e50b197157e529709e797ca5a870dac5
-                        1455.9109999999998,
-                        1896.422
-                      ],
-                      "runs": [
-                        {
-                          "text": "SCraft",
-                          "style": {
-                            "font_family": "Source Sans 3",
-                            "font_style": "Regular",
-                            "size": 103.0,
-<<<<<<< HEAD
-=======
                         1508.6499999999999,
                         1930.01
                       ],
@@ -5938,9 +5772,6 @@
                             "font_family": "Source Sans 3",
                             "font_style": "Regular",
                             "size": 140.0,
->>>>>>> 5fc4d5c (Shorten icon labels to 2-3 letters and reposition)
-=======
->>>>>>> b1e640e4e50b197157e529709e797ca5a870dac5
                             "tracking": 0.0,
                             "baseline_shift": 0.0,
                             "h_scale": 100.0,
@@ -5991,18 +5822,8 @@
                         0.0,
                         0.0,
                         1.0,
-<<<<<<< HEAD
-<<<<<<< HEAD
-                        2573.7375,
-                        1896.4220000000003
-=======
                         2542.75,
                         1930.01
->>>>>>> 5fc4d5c (Shorten icon labels to 2-3 letters and reposition)
-=======
-                        2573.7375,
-                        1896.4220000000003
->>>>>>> b1e640e4e50b197157e529709e797ca5a870dac5
                       ],
                       "runs": [
                         {
@@ -6010,15 +5831,7 @@
                           "style": {
                             "font_family": "Source Sans 3",
                             "font_style": "Regular",
-<<<<<<< HEAD
-<<<<<<< HEAD
-                            "size": 103.0,
-=======
                             "size": 140.0,
->>>>>>> 5fc4d5c (Shorten icon labels to 2-3 letters and reposition)
-=======
-                            "size": 103.0,
->>>>>>> b1e640e4e50b197157e529709e797ca5a870dac5
                             "tracking": 0.0,
                             "baseline_shift": 0.0,
                             "h_scale": 100.0,
@@ -6069,22 +5882,6 @@
                         0.0,
                         0.0,
                         1.0,
-<<<<<<< HEAD
-<<<<<<< HEAD
-=======
->>>>>>> b1e640e4e50b197157e529709e797ca5a870dac5
-                        3567.346,
-                        1896.4220000000005
-                      ],
-                      "runs": [
-                        {
-                          "text": "FigCraft",
-                          "style": {
-                            "font_family": "Source Sans 3",
-                            "font_style": "Regular",
-                            "size": 103.0,
-<<<<<<< HEAD
-=======
                         3659.3698904585926,
                         1930.01
                       ],
@@ -6095,9 +5892,6 @@
                             "font_family": "Source Sans 3",
                             "font_style": "Regular",
                             "size": 140.0,
->>>>>>> 5fc4d5c (Shorten icon labels to 2-3 letters and reposition)
-=======
->>>>>>> b1e640e4e50b197157e529709e797ca5a870dac5
                             "tracking": 0.0,
                             "baseline_shift": 0.0,
                             "h_scale": 100.0,
@@ -6148,22 +5942,6 @@
                         0.0,
                         0.0,
                         1.0,
-<<<<<<< HEAD
-<<<<<<< HEAD
-=======
->>>>>>> b1e640e4e50b197157e529709e797ca5a870dac5
-                        2518.5295,
-                        822.4219999999999
-                      ],
-                      "runs": [
-                        {
-                          "text": "FCProj",
-                          "style": {
-                            "font_family": "Source Sans 3",
-                            "font_style": "Regular",
-                            "size": 103.0,
-<<<<<<< HEAD
-=======
                         2546.53,
                         855.91
                       ],
@@ -6174,9 +5952,6 @@
                             "font_family": "Source Sans 3",
                             "font_style": "Regular",
                             "size": 140.0,
->>>>>>> 5fc4d5c (Shorten icon labels to 2-3 letters and reposition)
-=======
->>>>>>> b1e640e4e50b197157e529709e797ca5a870dac5
                             "tracking": 0.0,
                             "baseline_shift": 0.0,
                             "h_scale": 100.0,
@@ -6227,22 +6002,6 @@
                         0.0,
                         0.0,
                         1.0,
-<<<<<<< HEAD
-<<<<<<< HEAD
-=======
->>>>>>> b1e640e4e50b197157e529709e797ca5a870dac5
-                        3590.315,
-                        822.4219999999999
-                      ],
-                      "runs": [
-                        {
-                          "text": "ECProj",
-                          "style": {
-                            "font_family": "Source Sans 3",
-                            "font_style": "Regular",
-                            "size": 103.0,
-<<<<<<< HEAD
-=======
                         3617.52,
                         855.91
                       ],
@@ -6253,9 +6012,6 @@
                             "font_family": "Source Sans 3",
                             "font_style": "Regular",
                             "size": 140.0,
->>>>>>> 5fc4d5c (Shorten icon labels to 2-3 letters and reposition)
-=======
->>>>>>> b1e640e4e50b197157e529709e797ca5a870dac5
                             "tracking": 0.0,
                             "baseline_shift": 0.0,
                             "h_scale": 100.0,
@@ -6306,22 +6062,6 @@
                         0.0,
                         0.0,
                         1.0,
-<<<<<<< HEAD
-<<<<<<< HEAD
-=======
->>>>>>> b1e640e4e50b197157e529709e797ca5a870dac5
-                        1346.6795,
-                        822.422
-                      ],
-                      "runs": [
-                        {
-                          "text": "VectorCraft",
-                          "style": {
-                            "font_family": "Source Sans 3",
-                            "font_style": "Regular",
-                            "size": 103.0,
-<<<<<<< HEAD
-=======
                         1510.68,
                         855.91
                       ],
@@ -6332,9 +6072,6 @@
                             "font_family": "Source Sans 3",
                             "font_style": "Regular",
                             "size": 140.0,
->>>>>>> 5fc4d5c (Shorten icon labels to 2-3 letters and reposition)
-=======
->>>>>>> b1e640e4e50b197157e529709e797ca5a870dac5
                             "tracking": 0.0,
                             "baseline_shift": 0.0,
                             "h_scale": 100.0,
@@ -7305,10 +7042,6 @@
       }
     ],
     "symbols": [],
-<<<<<<< HEAD
-<<<<<<< HEAD
-    "guides": [],
-=======
     "guides": [
       {
         "vertical": false,
@@ -7335,25 +7068,13 @@
         "id": 110
       }
     ],
->>>>>>> 5fc4d5c (Shorten icon labels to 2-3 letters and reposition)
-=======
-    "guides": [],
->>>>>>> b1e640e4e50b197157e529709e797ca5a870dac5
     "grid": {
       "spacing": 72.0,
       "subdivisions": 8
     },
     "raster_effects_ppi": 72.0,
     "images": {},
-<<<<<<< HEAD
-<<<<<<< HEAD
-    "next_id": 107,
-=======
     "next_id": 111,
->>>>>>> 5fc4d5c (Shorten icon labels to 2-3 letters and reposition)
-=======
-    "next_id": 107,
->>>>>>> b1e640e4e50b197157e529709e797ca5a870dac5
     "metadata": {
       "author": "Ahmad Alrashdan",
       "authorTitle": "",
@@ -7364,53 +7085,32 @@
       "copyrightNotice": "",
       "copyrightUrl": "",
       "created": 1792314321,
-<<<<<<< HEAD
-<<<<<<< HEAD
-      "modified": 1794558130
-=======
-      "modified": 1794731731
->>>>>>> 5fc4d5c (Shorten icon labels to 2-3 letters and reposition)
-=======
-      "modified": 1794558130
->>>>>>> b1e640e4e50b197157e529709e797ca5a870dac5
+      "modified": 1794735194
     },
     "last_view": {
       "name": "",
       "center": {
-<<<<<<< HEAD
-<<<<<<< HEAD
-=======
->>>>>>> b1e640e4e50b197157e529709e797ca5a870dac5
-        "x": 1828.872070327052,
-        "y": 2420.289379854384
-      },
-      "zoom": 0.16226643772438515,
-<<<<<<< HEAD
-=======
         "x": 2105.647880798777,
         "y": 2527.1945833721484
       },
       "zoom": 0.21405550330493278,
->>>>>>> 5fc4d5c (Shorten icon labels to 2-3 letters and reposition)
-=======
->>>>>>> b1e640e4e50b197157e529709e797ca5a870dac5
       "rotation": 0.0
     },
     "export_settings": {
-      "counterStart": 1,
-      "folder": "/home/ahmadalrashdan/Documents/ArtCraft/VectorCraft_Projects/512x512/",
+      "folder": "/home/ahmadalrashdan/Documents/ArtCraft/VectorCraft_Projects/file-format-icons/png/512x512/",
       "folders": "none",
       "formats": [
         {
           "format": "png",
           "scale": "0.5x",
-          "suffix": "@0.5x"
+          "suffix": ""
         }
       ],
+      "includeArtboardFill": true,
       "includeBleed": false,
       "openLocation": true,
-      "prefix": "",
-      "range": "1-11",
+      "pdfs": "multiple",
+      "prefix": "512-",
       "settings": {
         "gif": {
           "antiAlias": "art",
