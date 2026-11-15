@@ -24,8 +24,8 @@ All values are in pixels on a 1024×1024 canvas. The origin (0, 0) is the top-le
 | Sheet size | 704 × 928 (≈ 3:4) |
 | Sheet position | x: 160 → 864, y: 48 → 976 |
 | Folded corner | 192 × 192 (≈ 27% of the sheet width), top-right |
-| Corner radius | 32 – 48 |
-| Border width | 24 – 32 |
+| Corner radius | 32 |
+| Border width | 24 |
 | Emblem area | 384 × 384, centered horizontally, y: 400 → 784 |
 | Label baseline | 120 above the bottom edge of the sheet (y = 856) |
 | Label max width | 480 |
