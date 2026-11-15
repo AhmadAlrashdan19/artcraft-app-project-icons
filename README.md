@@ -66,7 +66,7 @@ Feedback is welcome through issues or pull requests: colors, sizes, naming, or a
 
 ## License
 
-[Choose one: CC BY 4.0 / CC0 1.0 / same license as ArtCraft]
+To be confirmed with the ArtCraft maintainers.
 
 ## Author
 
