@@ -17,24 +17,24 @@ Created as a contribution proposal for the project.
 
 ## Icons
 
-| Icon | Format | Description |
-|------|--------|-------------|
-| <img src="png/512x512/512-PhotoCraft-Project.png" width="48"> | `.pcraft` | PhotoCraft project file |
-| <img src="png/512x512/512-VectorCraft-Project.png" width="48"> | `.vectorcraft` | VectorCraft project file |
-| <img src="png/512x512/512-FilmCraft-Project.png" width="48"> | `.fcproj` | FilmCraft project file |
-| <img src="png/512x512/512-EffectCraft-Project.png" width="48"> | `.ecproj` | EffectCraft project file |
-| <img src="png/512x512/512-PdfCraft.png" width="48"> | `.pdf` | PDF file |
-| <img src="png/512x512/512-DesignCraft-Project.png" width="48"> | `.designcraft` | DesignCraft project file |
-| <img src="png/512x512/512-AniCraft-Project.png" width="48"> | `.anicraft` | AniCraft project file |
-| <img src="png/512x512/512-SoundCraft-Project.png" width="48"> | `.scraft` | SoundCraft project file |
-| <img src="png/512x512/512-FigCraft-Project.png" width="48"> | `.figcraft` | FigCraft project file |
+| Icon |  File  | Description | Label |
+|------|--------|-------------|-------|
+| <img src="png/512x512/512-PhotoCraft-Project.png" width="48"> | `.pcraft` | PhotoCraft project file | PC |
+| <img src="png/512x512/512-VectorCraft-Project.png" width="48"> | `.vectorcraft` | VectorCraft project file | VC |
+| <img src="png/512x512/512-FilmCraft-Project.png" width="48"> | `.fcproj` | FilmCraft project file | FCP |
+| <img src="png/512x512/512-EffectCraft-Project.png" width="48"> | `.ecproj` | EffectCraft project file | ECP |
+| <img src="png/512x512/512-PdfCraft.png" width="48"> | `.pdf` | PDF file | PDF |
+| <img src="png/512x512/512-DesignCraft-Project.png" width="48"> | `.designcraft` | DesignCraft project file | DC |
+| <img src="png/512x512/512-AniCraft-Project.png" width="48"> | `.anicraft` | AniCraft project file | AC |
+| <img src="png/512x512/512-SoundCraft-Project.png" width="48"> | `.scraft` | SoundCraft project file | SC |
+| <img src="png/512x512/512-FigCraft-Project.png" width="48"> | `.figcraft` | FigCraft project file | FC |
 
 ## Files
 
 ```
 icons/
 ├── svg/      # Editable sources (text converted to outlines)
-├── png/      # Exports: 16, 32, 48, 64, 128, 256, 512, 1024
+├── png/      # Exports: 512, 1024
 ├── source/   # Original .vectorcraft files (optional)
 └── README.md
 ```
@@ -47,7 +47,7 @@ icons/
 
 Lowercase with hyphens:
 
-- `<type>-project.svg` (full version)
+- `icon-<type>-project.svg` (full version)
 - `<size>-<type>-project.png`
 
 Example: `photocraft-project.svg`, `512-photocraft-project.png`.
@@ -72,8 +72,8 @@ To be confirmed with the ArtCraft maintainers.
 
 Designed by **Ahmad Alrashdan** ([@AhmadAlrashdan19](https://github.com/AhmadAlrashdan19)).
 
-Copyright (c) 2026 Ahmad Alrashdan. The icon designs are available under the
-license above.
+Copyright (c) 2026 Ahmad Alrashdan.
+The icon designs are available under the license above.
 
 ## Credits
 
