@@ -27,7 +27,7 @@ All values are in pixels on a 1024×1024 canvas. The origin (0, 0) is the top-le
 | Corner radius | 32 |
 | Border width | 24 |
 | Emblem area | 384 × 384, centered horizontally, y: 400 → 784 |
-| Label baseline | 120 above the bottom edge of the sheet (y = 856) |
+| Label baseline | 120 above the bottom edge of the sheet (y = 856), font size → 190 |
 | Label max width | 480 |
 
 ### Folded corner geometry
