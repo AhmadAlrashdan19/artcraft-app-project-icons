@@ -4,7 +4,7 @@ Icon set for the file formats used by ArtCraft (e.g. `.pcraft` project files).
 Created as a contribution proposal for the project.
 
 <p align="center">
-  <img src="png/512x512/512-PhotoCraft-Project.png" width="384" alt="Project file icon preview">
+  <img src="png/1024x1024/1024-PhotoCraft-Project.png" width="384" alt="Project file icon preview">
 </p>
 
 ## Design
